@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/igorermol/crwn-clothing/static/css/main.ca444b95.chunk.css",
+    "main.js": "/igorermol/crwn-clothing/static/js/main.84821299.chunk.js",
+    "main.js.map": "/igorermol/crwn-clothing/static/js/main.84821299.chunk.js.map",
+    "runtime-main.js": "/igorermol/crwn-clothing/static/js/runtime-main.fd86a5eb.js",
+    "runtime-main.js.map": "/igorermol/crwn-clothing/static/js/runtime-main.fd86a5eb.js.map",
+    "static/js/2.cdc5fee6.chunk.js": "/igorermol/crwn-clothing/static/js/2.cdc5fee6.chunk.js",
+    "static/js/2.cdc5fee6.chunk.js.map": "/igorermol/crwn-clothing/static/js/2.cdc5fee6.chunk.js.map",
+    "index.html": "/igorermol/crwn-clothing/index.html",
+    "static/css/main.ca444b95.chunk.css.map": "/igorermol/crwn-clothing/static/css/main.ca444b95.chunk.css.map",
+    "static/js/2.cdc5fee6.chunk.js.LICENSE.txt": "/igorermol/crwn-clothing/static/js/2.cdc5fee6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd86a5eb.js",
+    "static/js/2.cdc5fee6.chunk.js",
+    "static/css/main.ca444b95.chunk.css",
+    "static/js/main.84821299.chunk.js"
+  ]
+}
